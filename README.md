@@ -1,4 +1,4 @@
-# 🛡️ EMONSEC Security Tools Suite
+# 🛡️ PASSWORD & E-MAIL GENERATOR
 
 A powerful and user-friendly command-line tool for generating secure passwords and professional email addresses. Built with Python, this tool offers multiple security levels and customization options for all your security needs.
 
